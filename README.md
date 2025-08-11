@@ -8,7 +8,7 @@ When you call the function, it automatically asks an AI to fill in the body — 
 ## 💻 Installation
 
 ```bash
-pip install lazyfunc
+pip install vibefunc
 ```
 
 ## 🎮 Usage
